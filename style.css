@@ -1,0 +1,17 @@
+/* Banner and subscribe background Color */
+	
+
+.color {
+    background-color: rgb(30, 0, 114);
+  }
+  
+
+  /* For Image Gray Scale  */
+  .gray-scale {
+    filter: grayscale(100%);
+  }
+  /* User Image  */
+  .user-image {
+    width: 50%;
+    border-radius: 50%;
+  }
